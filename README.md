@@ -1,2 +1,2 @@
 # Sensors
-Motor controller
+Sensors
